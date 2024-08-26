@@ -53,13 +53,6 @@ function App() {
   <Route path="/edit" element={<EditProfile />} />
   <Route path="/apply" element={<ApplyDetailTable />} />
 
-
-
-
-
-
-
-
 </Routes>
 <Footer />
 </BrowserRouter>
